@@ -1,0 +1,4 @@
+authors = [jgorham]
+name = "SteinDiscrepancy"
+uuid = UUIDs.uuid4()
+version = 0.0.2
