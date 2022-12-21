@@ -1,4 +1,4 @@
 authors = ["Jackson Gorham <jacksongorham@gmail.com>"]
 name = "SteinDiscrepancy"
-uuid = UUIDs.uuid4()
+uuid = "83581f66-c45f-4262-b417-7c74b3171128"
 version = 0.0.2
